@@ -5,13 +5,13 @@ This project focuses on analyzing HR data to understand employee attrition and p
 
 ## Project Files
 
-HR_Employee_Attrition.pdf → Full project report
+HR_Employee_Attrition_Report.pdf → Full project report
 
-HR_Employee_Attrition.py → Python code for data preprocessing, EDA, and model building
+HR_analytics.py → Python code for data preprocessing, EDA, and model building
 
-HR_Attrition_Dashboard.pbix → Power BI interactive dashboard
+HR_Analytic_Dashboard.pbix → Power BI interactive dashboard
 
-Dataset/HR_Employee_Attrition.csv** → Dataset used for analysis  
+WA_Fn-UseC_-HR-Employee-Attrition.csv → Dataset used for analysis  
 
 ## Tools & Technologies
 
