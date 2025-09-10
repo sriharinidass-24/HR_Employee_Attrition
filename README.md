@@ -42,8 +42,7 @@ The choice of model depends on whether HR prioritizes accuracy (Random Forest) o
 The dataset used is the IBM HR Employee Attrition Dataset, available on Kaggle
 .
 
-👩‍💻 Author
+## Author
 
-[Your Full Name]
-
+M SRIHARINI
 Internship Project
