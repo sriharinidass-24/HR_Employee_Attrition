@@ -11,6 +11,8 @@ HR_Employee_Attrition.py → Python code for data preprocessing, EDA, and model 
 
 HR_Attrition_Dashboard.pbix → Power BI interactive dashboard
 
+Dataset/HR_Employee_Attrition.csv** → Dataset used for analysis  
+
 ## Tools & Technologies
 
 Python (pandas, scikit-learn, imbalanced-learn, matplotlib, seaborn)
